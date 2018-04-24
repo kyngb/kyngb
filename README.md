@@ -14,5 +14,5 @@ fuck
 fuck
 fuck
 <img src=" https://kyngb.github.io/kyngb/Chrysanthemum.jpg" width="1024" height="768" />
-<img src=" https://kyngb.github.io/kyngb/Chrysanthemum.jpg" width="1024" height="768" />
+<img src=" https://kyngb.github.io/kyngb/Desert.jpg" width="1024" height="768" />
 </body>
