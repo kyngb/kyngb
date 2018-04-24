@@ -13,5 +13,5 @@ fuck
 fuck
 fuck
 fuck
- ![image](https://github.com/872822645/danxuankuangDemo/blob/master/1.jpg)
+<img src="file:///C|/users/Public/Pictures/Sample Pictures/Chrysanthemum.jpg" width="1024" height="768" />
 </body>
