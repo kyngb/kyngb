@@ -13,4 +13,5 @@ fuck
 fuck
 fuck
 fuck
+  <img src="file:///C|/users/Public/Pictures/Sample Pictures/Chrysanthemum.jpg" width="1024" height="768" />
 </body>
